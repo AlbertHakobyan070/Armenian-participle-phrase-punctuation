@@ -56,7 +56,7 @@ The ensemble achieved a macro-F1 of 0.6745 on the Shtemaran benchmark, within 2.
 │       ├── Partial_NP_Final.txt
 │       └── ONLY_Participle-related_punct_in-place.txt
 │
-├── Weights/                        # Trained model checkpoints (Git LFS)
+├── weights/                        # Trained model weights (Git LFS)
 │   ├── bilstm_v3_best.pt
 │   ├── armenian_vocab.json
 │   ├── armenian_embeddings.pt
