@@ -1,0 +1,16 @@
+{
+  "model": "hyebert_v3_matched_pipeline",
+  "num_labels": 4,
+  "labels": [
+    "O",
+    "COMMA_AFTER",
+    "BUTH_AFTER",
+    "REMOVE_COMMA"
+  ],
+  "label_pipeline": "difflib + regex + buth fix",
+  "weighting": "sqrt_inverse_frequency",
+  "best_f1_unfiltered": 0.41102122915401673,
+  "insertion_f1": 0.2643003873189297,
+  "f1_3class_remap": 0.5053509328695829,
+  "config": "see best_config.json"
+}

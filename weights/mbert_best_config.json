@@ -1,0 +1,13 @@
+{
+  "lr": 5e-05,
+  "batch_size": 8,
+  "warmup_ratio": 0.03111597583678993,
+  "freeze_layers": 6,
+  "best_f1": 0.46936,
+  "best_trial": 20,
+  "model_name": "bert-base-multilingual-cased",
+  "num_labels": 4,
+  "max_length": 128,
+  "negative_keep_ratio": 0.15,
+  "total_trials": 21
+}

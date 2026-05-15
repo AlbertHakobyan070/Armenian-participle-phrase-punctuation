@@ -1,0 +1,6 @@
+{
+  "lr": 7e-05,
+  "batch_size": 16,
+  "warmup_ratio": 0.03731403198041134,
+  "freeze_layers": 0
+}
