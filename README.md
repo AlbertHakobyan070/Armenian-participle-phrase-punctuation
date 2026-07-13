@@ -109,7 +109,12 @@ jupyter notebook code/evaluation/eval_shtemaran_292.ipynb
 
 ### Reproducing Model Training
 
-Training notebooks are in `code/training/`. Each notebook contains all steps from data loading through final evaluation. Paths at the top of each notebook must be adjusted to match your directory structure.
+Uploaded model repositories:
+  mbert     https://huggingface.co/AlbertHakobyan/mbert-armenian-participle-punct
+  hyebert   https://huggingface.co/AlbertHakobyan/hyebert-armenian-participle-punct
+  bilstm    https://huggingface.co/AlbertHakobyan/bilstm-armenian-participle-punct
+  
+Training notebooks are also in `code/training/`. Each notebook contains all steps from data loading through final evaluation. Paths at the top of each notebook must be adjusted to match your directory structure.
 
 **BiLSTM:** Run `train_bilstm_v3.ipynb` locally (CPU or MPS).  
 **HyeBERT:** Run `train_hyebert_v3_matched.ipynb` with a CUDA GPU.  
