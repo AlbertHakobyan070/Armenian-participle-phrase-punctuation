@@ -109,10 +109,10 @@ jupyter notebook code/evaluation/eval_shtemaran_292.ipynb
 
 ### Reproducing Model Training
 
-- Uploaded model repositories:
-      - mbert     https://huggingface.co/AlbertHakobyan/mbert-armenian-participle-punct
-      - hyebert   https://huggingface.co/AlbertHakobyan/hyebert-armenian-participle-punct
-      - bilstm    https://huggingface.co/AlbertHakobyan/bilstm-armenian-participle-punct
+Uploaded model repositories:
+- mbert     https://huggingface.co/AlbertHakobyan/mbert-armenian-participle-punct
+- Hyebert   https://huggingface.co/AlbertHakobyan/hyebert-armenian-participle-punct
+- Bilstm    https://huggingface.co/AlbertHakobyan/bilstm-armenian-participle-punct
   
 Training notebooks are also in `code/training/`. Each notebook contains all steps from data loading through final evaluation. Paths at the top of each notebook must be adjusted to match your directory structure.
 
